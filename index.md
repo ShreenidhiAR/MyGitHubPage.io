@@ -1,7 +1,5 @@
-## SHREENIDHI ANEMADAGU RAJASHEKAR
-
-
-# Plase you link here t fin the changes 
+ 
+  
  
 You can use the [editor on GitHub](https://github.com/ShreenidhiAR/MyGitHubPage.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
